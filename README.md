@@ -1,4 +1,4 @@
-# FletCardiV3 app
+# CARDI Log
 
 ## Run the app
 
