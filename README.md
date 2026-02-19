@@ -1,5 +1,9 @@
 # CARDI Log
 
+> **Note on Support:** This is a personal project shared to illustrate a specific approach to portfolio governance. While the codebase is open for reference and community forks, I am not currently providing active support, bug fixes, or feature updates. It is provided "as-is" for those interested in bridging the gap between lean PM practices and data integrity.
+
+![Portfolio Governance Tool](CARDI.gif)
+
 ## Run the app
 
 ### uv
