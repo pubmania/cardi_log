@@ -1,8 +1,13 @@
 # CARDI Log
 
-> **Note on Support:** This is a personal project shared to illustrate a specific approach to portfolio governance. While the codebase is open for reference and community forks, I am not currently providing active support, bug fixes, or feature updates. It is provided "as-is" for those interested in bridging the gap between lean PM practices and data integrity.
+> **"Bridging the gap between Lean PM and Data Integrity."**
 
-![Portfolio Governance Tool](CARDI.gif)
+## Executive Summary
+This utility replaces fragmented Excel trackers with a structured database to manage portfolio-level **Constraints, Assumptions, Risks, Dependencies, and Issues (CARDI)**. It is designed to eliminate the "manual reporting tax" by providing rapid visual feedback and slide-ready Gantt exports for SteerCo and C-suite presentations.
+
+![Portfolio Governance Tool](CARDILog.gif)
+
+> **Note on Support:** This is a personal project shared to illustrate a specific approach to portfolio governance. While the codebase is open for reference and community forks, I am not currently providing active support, bug fixes, or feature updates. It is provided "as-is" for those interested in bridging the gap between lean PM practices and data integrity.
 
 ## Run the app
 
